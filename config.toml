@@ -1,0 +1,4 @@
+baseURL = "http://jeremysearls.com/"
+languageCode = "en-us"
+title = "JeremySearls.Com"
+theme = "ananke"
