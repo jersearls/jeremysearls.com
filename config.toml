@@ -8,7 +8,7 @@ SectionPagesMenu = "main"
 Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
 
 [params]
-  favicon = ""
+  favicon = "https://s.gravatar.com/avatar/f3887939e5f64da81ae706bcc9874fd7?s=80"
   site_logo = ""
   description = "Here to help!"
   twitter = "https://twitter.com/jersearls"
