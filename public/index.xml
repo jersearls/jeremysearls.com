@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>JeremySearls.Com</title>
+    <link>http://jeremysearls.com/</link>
+    <description>Recent content on JeremySearls.Com</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 27 Feb 2021 17:19:53 -0500</lastBuildDate><atom:link href="http://jeremysearls.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>More branches, more problems</title>
+      <link>http://jeremysearls.com/posts/last-branch-tip/</link>
+      <pubDate>Sat, 27 Feb 2021 17:19:53 -0500</pubDate>
+      
+      <guid>http://jeremysearls.com/posts/last-branch-tip/</guid>
+      <description>Working as a firefighter in 2007   Often I find myself hopping around multiple branches. Between PR review and having multiple branches in flight, I often forget the name of the branch I was working on. This isn&amp;rsquo;t helped when branch names are prefixed with JIRA story codes and the team I&amp;rsquo;m working on.</description>
+    </item>
+    
+  </channel>
+</rss>

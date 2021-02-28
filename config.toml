@@ -1,4 +1,17 @@
 baseURL = "http://jeremysearls.com/"
 languageCode = "en-us"
 title = "JeremySearls.Com"
+
 theme = "ananke"
+
+[params]
+  favicon = ""
+  site_logo = ""
+  description = "Here to help!"
+  twitter = "https://twitter.com/jersearls"
+  youtube = "https://www.youtube.com/user/jsearls"
+  github = "https://github.com/jersearls"
+  linkedin = "https://www.linkedin.com/in/jeremysearls/"
+  background_color_class = "bg-blue"
+  featured_image = "/img/mackinac.JPG"
+  recent_posts_number = 2
