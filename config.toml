@@ -5,7 +5,7 @@ title = "JeremySearls.Com"
 # ananke specific settings
 theme = "ananke"
 SectionPagesMenu = "main"
-Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
+Paginate = 8
 
 [params]
   favicon = "https://s.gravatar.com/avatar/f3887939e5f64da81ae706bcc9874fd7?s=80"
@@ -17,4 +17,4 @@ Paginate = 3 # this is set low for demonstrating with dummy content. Set to a hi
   linkedin = "https://www.linkedin.com/in/jeremysearls/"
   background_color_class = "bg-blue"
   featured_image = "/img/mackinac.JPG"
-  recent_posts_number = 2
+  recent_posts_number = 5
