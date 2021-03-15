@@ -24,7 +24,6 @@ Now call the variable using the format\2 function
 ```
 IO.puts(IO.ANSI.format([:red, debug_text])) 
 ```
-<span style="color:red">hello barnaby</span>
 
 This is great! But let's go even further. Highlighting the text by altering the background color is especially useful.
 
@@ -32,7 +31,7 @@ This is great! But let's go even further. Highlighting the text by altering the 
 IO.puts(IO.ANSI.format([:red, :cyan_background, debug_text]))
 ```
 
-<span style="color: red; background-color: cyan">hello barnaby</span>
+{{< figure src="/img/color_terminal.png" title="Isn't it lovely?" >}} 
 
 That's it! Super easy and really handy! Play around with it and I hope it helps track down your next bug. 
 
