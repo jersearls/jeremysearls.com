@@ -2,6 +2,7 @@
 title: "Vim + Vscode = 😁"
 date: 2021-03-06T20:36:25-05:00
 draft: false
+published: false
 ---
 
 I love Elixir. This isn't a big secret if you talk to me about software for more than a minute. I also love VSCode and I'm not ashamed to say it. I suppose that's the developer equivalent of saying that starbucks is my favorite coffee. Just like starbucks, VSCode provides me the value of a consistent experience.  

@@ -2,6 +2,7 @@
 title: "The Reflog is a Dev's Best Friend"
 date: 2021-03-20T19:15:09-04:00
 draft: false 
+published: false
 ---
 Often I have encountered developers who use source control as a part of their daily workflow that are intimidated by git. This seems especially true when a rebase goes south, or really anything occurs that deviates from the normal git behavior.
 

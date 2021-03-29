@@ -2,6 +2,7 @@
 title: "An Ode to Open Source"
 date: 2021-03-28T17:04:03-04:00
 draft: false
+published: false
 tags: elixir, open source 
 canonical_url: https://jeremysearls.com/posts/an-ode-to-open-source/
 ---
