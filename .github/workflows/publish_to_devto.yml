@@ -11,7 +11,7 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v2
 
-      - name: Sycing Article to dev.to
+      - name: Syncing Article to dev.to
         uses: ful1e5/TheActionDev@v2
         with:
           api-key: ${{ secrets.DEVTO_API_KEY }} # Store your 'api-key' in Github Secret
