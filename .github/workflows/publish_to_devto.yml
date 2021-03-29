@@ -15,5 +15,5 @@ jobs:
         uses: ful1e5/TheActionDev@v2
         with:
           api-key: ${{ secrets.DEVTO_API_KEY }} # Store your 'api-key' in Github Secret
-          directory: ./posts # Your article directory
+          directory: ./content/posts # Your article directory
           ignore: README.md, _index.md # Markdown file you wan't to ignore. Multple files separated by ,(comma)
