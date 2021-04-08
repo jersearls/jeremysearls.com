@@ -2,7 +2,6 @@
 title: "IO.ANSI: A World of Color"
 date: 2021-03-14T21:08:12-04:00
 draft: false
-published: false
 ---
 
 Viewing debug text while running a server can be challenging. This holds true while running a Phoenix server. Thankfully there is a fantastic module included with the Elixir standard library.

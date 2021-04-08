@@ -2,7 +2,6 @@
 title: "How I Built This Blog"
 date: 2021-03-01T20:06:26-05:00
 draft: false
-published: false
 ---
 
 **"Building a blog has never been easier"**...is a sentence you could probably write at any moment in time and it would be accurate.

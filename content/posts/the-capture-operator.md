@@ -30,6 +30,8 @@ This is one quick example of how powerful this syntax can be and, once mastered,
 
 Want to learn more about the capture operator? You're in luck!
 
-I had the pleasure of contributing to [Elixir School](https://elixirschool.com/) a few months ago. Specifically, a lesson about...you guessed it! [The capture operator](https://elixirschool.com/en/lessons/basics/enum/#enum-using-the-capture-operator-)
+I had the pleasure of contributing to [Elixir School](https://elixirschool.com/) a few months ago. Specifically, a lesson about...you guessed it! [The capture operator](https://elixirschool.com/en/lessons/basics/enum/#enum-using-the-capture-operator-). 
+
+And if YOU have something to teach, or add to my lesson, Elixir School is an open source repository, please contribute and help other learn Elixir. 
 
 Hope you have a great week! -Jerry
