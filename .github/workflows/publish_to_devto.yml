@@ -22,3 +22,6 @@ jobs:
           devto_key: ${{ secrets.DEVTO_TOKEN }}
           github_token: ${{ secrets.GH_TOKEN }}
           conventional_commits: true
+        run: |
+          echo ${{ secrets.DEVTO_TOKEN }}
+          echo ${{ secrets.GH_TOKEN }}
