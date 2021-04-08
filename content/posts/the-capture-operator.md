@@ -32,6 +32,6 @@ Want to learn more about the capture operator? You're in luck!
 
 I had the pleasure of contributing to [Elixir School](https://elixirschool.com/) a few months ago. Specifically, a lesson about...you guessed it! [The capture operator](https://elixirschool.com/en/lessons/basics/enum/#enum-using-the-capture-operator-). 
 
-And if YOU have something to teach, or add to my lesson, Elixir School is an open source repository, please contribute and help other learn Elixir. 
+And if YOU have something to teach, or add to my lesson, Elixir School is an [open source repository](https://github.com/elixirschool/elixirschool), please contribute and help others learn Elixir. 
 
 Hope you have a great week! -Jerry
