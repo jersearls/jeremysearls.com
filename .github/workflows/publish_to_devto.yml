@@ -5,15 +5,20 @@ on:
       - master
 
 jobs:
-  operations:
+  publish:
     runs-on: ubuntu-latest
-    steps:
-      - name: Checkout repo
-        uses: actions/checkout@v2
+    if: "! contains(toJSON(github.event.commits.*.message), '[skip ci]')"
 
-      - name: Syncing Article to dev.to
-        uses: ful1e5/TheActionDev@v2
+    steps:
+      - uses: actions/checkout@v1
+      - uses: actions/setup-node@v1
         with:
-          api-key: ${{ secrets.DEVTO_API_KEY }} # Store your 'api-key' in Github Secret
-          directory: ./content/posts # Your article directory
-          ignore: README.md, _index.md # Markdown file you wan't to ignore. Multple files separated by ,(comma)
+          node-version: 12
+
+      - name: Publish articles on dev.to
+        uses: sinedied/publish-devto@v1
+        with:
+          files: "content/posts/*.md"
+          devto_key: ${{ secrets.DEVTO_TOKEN }}
+          github_token: ${{ secrets.GH_TOKEN }}
+          conventional_commits: true
