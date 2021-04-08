@@ -19,6 +19,6 @@ jobs:
         uses: jersearls/publish-devto@v1
         with:
           files: "content/posts/*.md"
-          devto_key: ${{ secrets.DEVTO_TOKEN }}
+          devto_key: "ABCDEFG"
           github_token: ${{ secrets.GH_TOKEN }}
           conventional_commits: true
