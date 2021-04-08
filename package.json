@@ -1,0 +1,12 @@
+{
+  "name": "jeremysearls.com",
+  "version": "1.0.0",
+  "description": "My blog",
+  "repository": "jersearls/jeremysearls.com",
+  "private": false,
+  "author": {
+    "name": "Jeremy Searls",
+    "url": "https://jeremysearls.com"
+  },
+  "license": "MIT"
+}
