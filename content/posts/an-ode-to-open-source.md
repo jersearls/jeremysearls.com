@@ -2,9 +2,6 @@
 title: "An Ode to Open Source"
 date: 2021-03-28T17:04:03-04:00
 draft: false
-published: false
-tags: elixir, open source 
-canonical_url: https://jeremysearls.com/posts/an-ode-to-open-source/
 ---
 
 There are a lot of things that I love about my job. As a software engineer for Cars.com, I get to work on cool problems with great people on an awesome tech stack. One of the best parts of our tech stack is our heavy reliance on open source software. We rely on a myriad of different technologies that leverage software that is written to be shared, free of charge, with the outside world. We're even utilizing an open-source package [that I wrote](https://hex.pm/packages/attrition) and had the pleasure of speaking about at the [2020 ElixirConf](https://youtu.be/zTHCEZVL4Kw).
